@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cvicenie5" targetName="cvicenie5" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7561d7dd-bcd7-4c63-a038-ff3dc8f262b2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="cvicenie5" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1SkNhsTf4sksHIsVKiXy8XT4FZi" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../9.cviko/CMakeLists.txt" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PISTA\skola\VS\C++\Projekt\gtest" />
+      <recent name="C:\PISTA\skola\VS\C++\Projekt" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.cvicenie5">
+    <configuration name="SudokuPlan.GetBoxLineIndex_Sudoku6x6Horizontal" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cvicenie5" TARGET_NAME="cvicenie5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cvicenie5" RUN_TARGET_NAME="cvicenie5" TEST_CLASS="SudokuPlan" TEST_METHOD="GetBoxLineIndex_Sudoku6x6Horizontal" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SudokuPlan.GetBoxLineIndex_Sudoku6x6Vertical" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cvicenie5" TARGET_NAME="cvicenie5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cvicenie5" RUN_TARGET_NAME="cvicenie5" TEST_CLASS="SudokuPlan" TEST_METHOD="GetBoxLineIndex_Sudoku6x6Vertical" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cvicenie5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cvicenie5" TARGET_NAME="cvicenie5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cvicenie5" RUN_TARGET_NAME="cvicenie5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.cvicenie5" />
+      <item itemvalue="Google Test.SudokuPlan.GetBoxLineIndex_Sudoku6x6Vertical" />
+      <item itemvalue="Google Test.SudokuPlan.GetBoxLineIndex_Sudoku6x6Horizontal" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.SudokuPlan.GetBoxLineIndex_Sudoku6x6Horizontal" />
+        <item itemvalue="Google Test.SudokuPlan.GetBoxLineIndex_Sudoku6x6Vertical" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7561d7dd-bcd7-4c63-a038-ff3dc8f262b2" name="Default Changelist" comment="" />
+      <created>1572103755912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572103755912</updated>
+      <workItem from="1572103757291" duration="19228000" />
+      <workItem from="1572200267694" duration="1306000" />
+      <workItem from="1572205847251" duration="442000" />
+      <workItem from="1572212112475" duration="213000" />
+      <workItem from="1572214016902" duration="1857000" />
+      <workItem from="1572617095472" duration="1378000" />
+      <workItem from="1572618518287" duration="55000" />
+      <workItem from="1573657160838" duration="663000" />
+      <workItem from="1574707668235" duration="71000" />
+      <workItem from="1575809597407" duration="13380000" />
+      <workItem from="1575835121500" duration="2951000" />
+      <workItem from="1575840097134" duration="5687000" />
+      <workItem from="1576012060423" duration="120000" />
+      <workItem from="1579004269075" duration="300000" />
+      <workItem from="1579957129840" duration="18098000" />
+      <workItem from="1579976230887" duration="34963000" />
+      <workItem from="1580304174301" duration="20714000" />
+      <workItem from="1580396345295" duration="16606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SudokuPlan.cpp</url>
+          <line>178</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
